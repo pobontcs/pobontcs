@@ -13,8 +13,8 @@ Welcome to my README! I'm a passionate Computer Science student with a knack for
 ## 🛠️ **Skills**
 
 ### 💻 Programming & Development
-- Python, R, SQL
-- C++, JavaScript (Intermediate)
+- Python,JAVA,JS,SQL
+- C++,SQLITE(Intermediate)
 
 ### 📊 Data Science & Machine Learning
 - Data Preprocessing & Cleaning
@@ -22,10 +22,7 @@ Welcome to my README! I'm a passionate Computer Science student with a knack for
 - Machine Learning Model Building (Regression, Classification, Clustering)
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
-### 🔍 Tools & Platforms
-- Jupyter Notebooks, Google Colab
-- TensorFlow, PyTorch (Basics)
-- Git, GitHub
+
 
 ---
 

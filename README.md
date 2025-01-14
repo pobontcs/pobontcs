@@ -39,13 +39,10 @@ Welcome to my README! I'm a passionate Computer Science student with a knack for
 ## 📈 **Projects**
 Here are a few notable projects I’ve worked on:
 
-### 🧠 **Predictive Analysis of Student Performance**
-- **Description:** Built a predictive model to analyze student performance based on various academic and demographic factors.
-- **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib
+### 🧠 ** $Navana3S$
+- **Description:** A simulation for automobile workshop
+- **Tech Stack:** javafx,java,OIS,OOS
 
-### 🔎 **Sentiment Analysis on Tweets**
-- **Description:** Analyzed public sentiment during significant events using NLP techniques.
-- **Tech Stack:** Python, NLTK, Matplotlib
 
 ---
 

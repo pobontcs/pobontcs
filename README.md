@@ -20,7 +20,7 @@ Welcome to my README! I'm a passionate Computer Science student with a knack for
 - Data Preprocessing & Cleaning
 - Exploratory Data Analysis (EDA)
 - Machine Learning Model Building (Regression, Classification, Clustering)
-- Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- Libraries: $Pandas$, $NumPy$, $Matplotlib$
 
 
 

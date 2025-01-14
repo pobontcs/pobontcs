@@ -44,8 +44,8 @@ Here are a few notable projects I’ve worked on:
 ---
 
 ## 🌍 **Let's Connect**
-- **GitHub:** [Pobon](https://github.com/yourgithub)  
-- **LinkedIn:** [Pobon](https://linkedin.com/in/yourlinkedin)
+- **GitHub:** [Pobontcs](https://github.com/pobontcs)  
+- **LinkedIn:** [Pobon](https://www.linkedin.com/in/abdullah-al-hossain-4646a6253/)
 
 Feel free to reach out if you'd like to collaborate or discuss anything related to ML, Data Science, or just tech in general! 🤝
 

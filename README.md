@@ -13,7 +13,7 @@ Welcome to my README! I'm a passionate Computer Science student with a knack for
 ## 🛠️ **Skills**
 
 ### 💻 Programming & Development
-- Python,JAVA,JS,SQL
+- Python,Java,Flask,SQL
 - C++,SQLITE(Intermediate)
 
 ### 📊 Data Science & Machine Learning
@@ -27,9 +27,9 @@ Welcome to my README! I'm a passionate Computer Science student with a knack for
 ---
 
 ## 🌱 **Current Learning Goals**
-- Deep Learning (Neural Networks)
-- Natural Language Processing (NLP)
-- Cloud Computing for AI/ML
+- API
+- Neural Networks
+  
 
 ---
 

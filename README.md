@@ -3,6 +3,9 @@
 Welcome to my README! I'm a passionate Computer Science student with a knack for **Machine Learning** and **Data Science**, constantly striving to learn and build impactful solutions.
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harshkumarkhatri/harshkumarkhatri/main/bat.gif" width="200px">
+</p>
 
 ## 🎓 **Education**
 - **University:** Independent University, Bangladesh, Dhaka

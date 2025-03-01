@@ -1,4 +1,4 @@
 🦇 Abdullah Al Hossain  
 
 > _"It's not who I am underneath, but what I do that defines me."_
-![Batman](https://i.imgur.com/w2bRnBb.jpeg)
+> ![Batman](https://i.imgur.com/w2bRnBb.jpeg)

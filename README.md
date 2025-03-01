@@ -5,5 +5,13 @@
 > 
 > ## 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pobontcs&layout=compact&theme=dark)  ![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pobontcs&show_icons=true&theme=dark) 
+>
+>## 🦸 About Me  
+
+🔹 💻 Passionate about  **problem-solving**  
+🔹 🤖 Exploring **Machine Learning** & **Innovation in Computer Science**  
+🔹 🚀 Working on **cool projects** & always up for a challenge  
+
+
 
 

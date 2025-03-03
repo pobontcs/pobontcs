@@ -1,4 +1,4 @@
-![Batman](https://wallpapercave.com/wp/wp2822007.jpg)
+![Batman]([https://wallpapercave.com/wp/wp2822007.jpg](https://www.icegif.com/wp-content/uploads/2023/07/icegif-1131.gif))
 
 >## Abdullah Al Hossain  
 
@@ -13,7 +13,7 @@
 🔹 💻 Passionate about  **problem-solving**  
 🔹 🤖 Exploring **Machine Learning** & **Innovation in Computer Science**  
 🔹 🚀 Working on **cool projects** & always up for a challenge  
-> [Arsenal](https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/01/rebirth-batmobile-featured.jpg)
+
 
 
 

@@ -6,7 +6,12 @@
 >
 > 
 > ## 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pobontcs&layout=compact&theme=dark)  ![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pobontcs&show_icons=true&theme=dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pobontcs&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pobontcs&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pobontcs&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pobontcs&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pobontcs&theme=radical&utcOffset=6)
+
 >
 >## 🦸 About Me  
 

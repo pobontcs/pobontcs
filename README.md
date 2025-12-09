@@ -13,12 +13,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pobontcs&theme=gotham&utcOffset=6)
 
 
->
->## 🦸 About Me  
 
-🔹 💻 Passionate about  **problem-solving**  
-🔹 🤖 Exploring **Machine Learning** & **Innovation in Computer Science**  
-🔹 🚀 Working on **cool projects** & always up for a challenge  
 
 
 

@@ -8,25 +8,23 @@
 
 ---
 
-
+### 🦇 My GitHub Statistics
 
 <p align="center">
-  <!-- Replaced Profile Details -->
-  <img src="https://github-readme-stats.vercel.app/api?username=pobontcs&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=333333" width="800" alt="Profile Details" />
+  <!-- Profile Details -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pobontcs&show_icons=true&theme=tokyonight" width="800" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <!-- Replaced Language Cards -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pobontcs&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&border_color=333333" width="395" alt="Top Languages" />
-  
-  <!-- New Streak Card to replace the 3rd missing card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pobontcs&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=aaaaaa&currStreakLabel=aaaaaa&sideLabels=aaaaaa&dates=aaaaaa&border=333333" width="395" alt="GitHub Streak" />
+  <!-- Top Languages & GitHub Streak -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pobontcs&layout=compact&theme=tokyonight" width="395" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pobontcs&theme=tokyonight" width="395" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <!-- Kept your remaining original cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pobontcs&theme=gotham" width="395" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pobontcs&theme=gotham&utcOffset=6" width="395" alt="Productive Time" />
+  <!-- Original Summary Cards (if the API is online) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pobontcs&theme=tokyonight" width="395" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pobontcs&theme=tokyonight&utcOffset=6" width="395" alt="Productive Time" />
 </p>
 
 </div>

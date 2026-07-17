@@ -8,7 +8,7 @@
 
 ---
 
-### 🦇 My GitHub Statistics
+
 
 <p align="center">
   <!-- Profile Details -->

@@ -18,7 +18,7 @@
 <p align="center">
   <!-- Tech Stack Icons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,c++,py,js,ts,dart,framework,react,nextjs,fluttervite,django,ai,pytorch,tensorflow,langchain,database,postgresql,mysql,firebase&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,dart,framework,react,nextjs,fluttervite,django,ai,pytorch,tensorflow,langchain,database,a,b,c,d,postgresql,mysql,firebase&theme=dark" alt="My Skills" />
   </a>
 </p>
 

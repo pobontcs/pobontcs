@@ -8,23 +8,32 @@
 
 ---
 
-
-
 <p align="center">
-  <!-- Profile Details -->
-  <img src="https://github-readme-stats.vercel.app/api?username=pobontcs&show_icons=true&theme=tokyonight" width="800" alt="Profile Details" />
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=pobontcs&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=6" alt="Trophies" />
+  </a>
 </p>
 
 <p align="center">
-  <!-- Top Languages & GitHub Streak -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pobontcs&layout=compact&theme=tokyonight" width="395" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pobontcs&theme=tokyonight" width="395" alt="GitHub Streak" />
+  <!-- Tech Stack Icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,dart,react,flutter,django,vite&theme=dark" alt="My Skills" />
+  </a>
 </p>
 
 <p align="center">
-  <!-- Original Summary Cards (if the API is online) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pobontcs&theme=tokyonight" width="395" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pobontcs&theme=tokyonight&utcOffset=6" width="395" alt="Productive Time" />
+  <!-- GitHub Activity Graph -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pobontcs&theme=tokyo-night&hide_border=true&area=true" width="800" alt="Activity Graph" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Dynamic Quote -->
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
+  </a>
 </p>
 
 </div>

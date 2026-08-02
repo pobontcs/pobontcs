@@ -28,7 +28,12 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=pobontcs&theme=tokyo-night&hide_border=true&area=true" width="800" alt="Activity Graph" />
   </a>
 </p>
-
+<p align="center">
+  <!-- Comprehensive GitHub Metrics -->
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="https://metrics.lecoq.io/pobontcs?template=classic&base=header,repositories,activity&languages=yes&languages.limit=8&theme=tokyonight" width="800" alt="GitHub Metrics" />
+  </a>
+</p>
 <p align="center">
   <!-- Dynamic Quote -->
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
